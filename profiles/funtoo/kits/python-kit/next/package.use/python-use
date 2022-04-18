@@ -1,7 +1,0 @@
-app-editors/pluma python_single_target_python3_7 python_targets_python3_7
-dev-python/python-caja python_single_target_python3_7 python_targets_python3_7
-mate-extra/caja-dropbox python_single_target_python3_7 python_targets_python3_7
-x11-libs/bamf python_single_target_python3_7 python_targets_python3_7
-x11-misc/mate-dock-applet python_single_target_python3_7 python_targets_python3_7
-x11-misc/mate-tweak python_single_target_python3_7 python_targets_python3_7
-x11-misc/mozo python_single_target_python3_7 python_targets_python3_7
